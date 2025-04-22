@@ -1,3 +1,10 @@
+# Project Description
+This was a single-page React application created in Visual Studio Code using Vite, Tailwind CSS, and Framer Motion. This project showcases the creator's school/work experience as well as examples of work in web design, graphic design, video editing, and art.
+
+# Features
+This project includes responsive navigation and layout, functional links to external sites, and a contact form that checks whether users entered correctly formatted information (in the email field) and prevents them from submitting if they have not entered information in any one of the fields.
+
+# Setup Instructions:
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
