@@ -5,7 +5,7 @@ export const About = () => {
             <div>
                 <h1 className="text-5xl md:text-6xl mb-8 text-center">About</h1>
 
-                <img src="/portrait.png" alt="image of Raine" className="max-h-80 float-left mr-4" />
+                <img src="portrait.png" alt="image of Raine" className="max-h-80 float-left mr-4" />
 
                 <p className="text-lg md:text-2xl mb-8 max-w-4xl mx-auto">I am currently pursuing a Bachelor's in Digital Media at the University of Central Florida, specializing in web and interactive media, with strong skills in Adobe Creative Suite, Google Suite, and Microsoft Office. Through my experience as a Social Media Content Creator for Her Campus UCF and a Face Paint Artist at Universal Studios, I've honed my ability to craft engaging content and connect with diverse audiences. I am eager to contribute my creativity and technical skills to a team where I can make a meaningful impact in design and digital marketing.</p>
 
